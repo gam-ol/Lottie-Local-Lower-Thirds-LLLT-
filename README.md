@@ -3,7 +3,8 @@
 **LLLT (Lottie Local Lower Thirds)** is a local engine converting Lottie animations into edit-ready **.mov (Alpha)** files. It replaces heavy templates with a simple GUI for fast asset generation. Built for extensibility: swap the default JSON with your own to create custom, brand-specific templates. Fast and stable.
 
 ---
-
+## 🤝 Credits & Acknowledgements
+This project is inspired by and based on the original CasparCG Lottie template logic created by **Heine Froholdt** (heine.froholdt@gmail.com).
 ## Versions 
 
 ### 1. LLLT_v01 (Source Code)
